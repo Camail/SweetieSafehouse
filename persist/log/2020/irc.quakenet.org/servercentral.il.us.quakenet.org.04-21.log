@@ -1,0 +1,73 @@
+16:34:14 :servercentral.il.us.quakenet.org 001 sweetiebot :Welcome to the QuakeNet IRC Network, sweetiebot
+16:34:14 :servercentral.il.us.quakenet.org 002 sweetiebot :Your host is servercentral.il.us.quakenet.org, running version u2.10.12.10+snircd(1.3.4a)
+16:34:14 :servercentral.il.us.quakenet.org 003 sweetiebot :This server was created Mon Oct 6 2008 at 13:36:33 CDT
+16:34:14 :servercentral.il.us.quakenet.org 004 sweetiebot servercentral.il.us.quakenet.org u2.10.12.10+snircd(1.3.4a) dioswkgxRXInP biklmnopstvrDcCNuMT bklov
+16:34:14 :servercentral.il.us.quakenet.org 005 sweetiebot WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=15 MODES=6 MAXCHANNELS=20 MAXBANS=45 NICKLEN=15 :are supported by this server
+16:34:14 :servercentral.il.us.quakenet.org 005 sweetiebot MAXNICKLEN=15 TOPICLEN=250 AWAYLEN=160 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDducCNMT CASEMAPPING=rfc1459 NETWORK=QuakeNet :are supported by this server
+16:34:14 :servercentral.il.us.quakenet.org 251 sweetiebot :There are 18 users and 12566 invisible on 28 servers
+16:34:14 :servercentral.il.us.quakenet.org 252 sweetiebot 52 :operator(s) online
+16:34:14 :servercentral.il.us.quakenet.org 253 sweetiebot 2 :unknown connection(s)
+16:34:14 :servercentral.il.us.quakenet.org 254 sweetiebot 10433 :channels formed
+16:34:14 :servercentral.il.us.quakenet.org 255 sweetiebot :I have 1036 clients and 1 servers
+16:34:14 :servercentral.il.us.quakenet.org 375 sweetiebot :- servercentral.il.us.quakenet.org Message of the Day - 
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :- 2008-9-29 18:33
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :- welcome to..                            _            _ 
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :-      ___ ___ _ ___ _____ _ _ __ ___ _ _| |_ _ _ __ _| |
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :- * * (_-</ -_) '_\ V / -_) '_/ _/ -_) ' \  _| '_/ _` | | * *
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :-  *  /__/\___|_|  \_/\___|_| \__\___|_||_\__|_| \__,_|_|  *
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :- 
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :-      ...::[[ servercentral.il.us.quakenet.org ]]::...
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :- 
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :- This IRC Server is operated by The Server Central Network
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :-   o Listening on ports: 5555, 6660 - 6669, 7000, 8080 o
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :-        o Visit us @ http://www.servercentral.net/ o
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :- 
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :- --- Server Rules -----------------------------------------
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :- 
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :-   o No Flooding       o No DoS bots         o No Warez
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :-   o No Clones         o No Spamming         o No XDCCs
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :-   o No Takeovers      o No Phishing         o No Whiners
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :- 
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :- --- Server Staff -----------------------------------------
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :- 
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :-   o Administrator   *doug               [douglas/@/boldt.us]
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :-   o Operator        *netmunky          [gavin/@/subnets.org]
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :-   o Operator        *SyncError  [syncerror/@/idsoftware.com]
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :- 
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :- --- Network Information ----------------------------------
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :- 
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :-   o Quakenet  +-  http://www.quakenet.org/
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :-   o #Feds     +-  Closed Oper Channel (#help for access)
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :-   o #Help     +-  General Help (Quakenet public channel)
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :- 
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :- --- Local Information ------------------------------------
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :- 
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :-   o #servercentral  +- Public ServerCentral Help Channel.
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :- 
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :- --- Recommended Channels ---------------------------------
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :- 
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :-   #idsoftware  +- id Software's Public Discussion Channel.
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :-   #q4max  +- Support for the popular 1v1 quake4 mod.
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :- 
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :- --- Recommended Sites ------------------------------------
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :- 
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :-   o http://irchelp.org/      o http://searchirc.com/
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :-   o http://idsoftware.com/   o http://irc-junkie.org/
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :-   o http://irssi.org/        o http://irc.netsplit.de/
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :-   o http://q4max.com/        o http://gamersreports.com/
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :-   o http://wingsix.com/      o http://reverse.net/
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :-  
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :- --- Disclaimer -------------------------------------------
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :- 
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :- This server's staff and Server Central Network are *NOT*
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :- responsible for the data that passes through this server. 
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :- Use of this server is a *privilege* which may be revoked 
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :- any time and for any reason by the Quakenet IRCop Staff. 
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :- 
+16:34:14 :servercentral.il.us.quakenet.org 372 sweetiebot :- ----------------------------------------------------------
+16:34:14 :servercentral.il.us.quakenet.org 376 sweetiebot :End of /MOTD command.
+16:34:14 :servercentral.il.us.quakenet.org 221 sweetiebot +i
+16:34:15 :servercentral.il.us.quakenet.org 353 sweetiebot @ #tlponies :sweetiebot +Camail BioPhone Zounds Rawr|Fone skram +carcinisation DuB` tredc Runbunny @Cane Dot` Golly @Q +GGMethos +Westy543 +CockRoac1|42 Bio
+16:34:15 :servercentral.il.us.quakenet.org 366 sweetiebot #tlponies :End of /NAMES list.
+16:34:15 :servercentral.il.us.quakenet.org 353 sweetiebot = #camtestinggg :@sweetiebot
+16:34:15 :servercentral.il.us.quakenet.org 366 sweetiebot #camtestinggg :End of /NAMES list.

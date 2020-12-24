@@ -1,0 +1,344 @@
+00:32:14 -!- Rawr|Fone [~AndChat52@c-94cfe455.020-164-6d6c6d4.bbcust.telenor.se] has joined #tlponies
+00:32:19 <skrm> Cheer up, Andersdrenge
+00:44:17 -!- Crisium [~Crisium@c-24-3-150-105.hsd1.pa.comcast.net] has joined #tlponies
+01:26:33 <Runbunny> Oh dang it's late.
+01:36:44 -!- skrm [webchat@pioj.eid3.887x.ip] has joined #tlponies
+01:39:11 <skrm> hmm
+02:05:25 -!- Rawr|Fone [~AndChat52@c-94cfe455.020-164-6d6c6d4.bbcust.telenor.se] has joined #tlponies
+02:53:32 * skrm slaps DvB` around a bit with a large fishbot
+04:19:37 -!- Rawr|Fone [~AndChat52@c-94cfe455.020-164-6d6c6d4.bbcust.telenor.se] has joined #tlponies
+04:30:53 -!- Micen [~Micen@h106.208.18.98.dynamic.ip.windstream.net] has joined #tlponies
+05:30:14 -!- Rawr|Fone [~AndChat52@c-94cfe455.020-164-6d6c6d4.bbcust.telenor.se] has joined #tlponies
+06:15:33 -!- Rawr|Fone [~AndChat52@c-94cfe455.020-164-6d6c6d4.bbcust.telenor.se] has joined #tlponies
+06:17:11 -!- skram [~skram@82.147.53.200] has joined #tlponies
+06:25:59 <Rawr|Fone> Jonas
+06:26:12 <skram> Henrik
+06:26:13 <skram> god morgon
+06:26:43 <Rawr|Fone> God morgon snäckan
+06:36:35 -!- Micen [~Micen@h106.208.18.98.dynamic.ip.windstream.net] has joined #tlponies
+06:37:55 -!- Rawr|Fone [~AndChat52@c-94cfe455.020-164-6d6c6d4.bbcust.telenor.se] has joined #tlponies
+06:38:01 <Rawr|Fone> Hmm
+06:44:59 <skram> Hmmmm
+06:50:15 <Rawr|Fone> Did you have a good time at work skrammypants
+06:50:35 <skram> It was very boring and I am glad to be home
+06:51:29 <Rawr|Fone> 🤨
+06:55:02 <skram> what you workin on
+06:56:09 -!- CellRoach [~AndChat14@m83-187-182-149.cust.tele2.se] has joined #tlponies
+06:56:55 <Rawr|Fone> I am working on sending out emails through our application
+06:57:08 <skram> fancy
+06:57:14 <skram> i usually just use outlook
+06:57:26 <Rawr|Fone> But I have to write a new library, since there is no support for our framework
+06:57:48 <Rawr|Fone> I should tell my boss about that skram
+06:58:27 <skram> im full of great ideas
+06:59:38 <Rawr|Fone> We should hire you
+07:00:59 <skram> I only set things on fire these days, henrik
+07:01:12 <skram> unless you want me to blaze some terminals
+07:01:33 <Rawr|Fone> You could burn my windows terminal
+07:02:07 -!- Golly [~kvirc@cm-84.213.21.103.getinternet.no] has joined #tlponies
+07:02:22 <skram> I thought all the cool kids used some obscure ass linux distro without gui
+07:03:23 <Rawr|Fone> I wish
+07:24:35 -!- Dot` [webchat@cloak-puzvreye.123.7.51.dyn.plus.net] has joined #tlponies
+07:26:05 <Rawr|Fone> Dot dot dot
+07:27:34 <Dot`> Rawr Rawr Rawr
+07:27:37 <Dot`> <3 <3 <3
+07:27:40 <Rawr|Fone> ❤❤❤
+07:33:39 <Rawr|Fone> He left us dot
+07:34:53 <Dot`> aww
+07:34:59 <Dot`> but i had an anime thing to give him
+07:35:16 <Dot`> .tell skram https://imgur.com/gallery/RuT2yGX
+07:36:38 <Rawr|Fone> Sweetie says no
+07:36:51 <Dot`> its just not meant to be rawr
+07:37:09 <Rawr|Fone> She might be against anime
+07:37:14 <Rawr|Fone> Like skram used to be
+07:40:32 -!- Micen [~Micen@h106.208.18.98.dynamic.ip.windstream.net] has joined #tlponies
+08:03:52 <Rawr|Fone> Dot
+08:11:03 <Dot`> rawr
+08:15:09 <Rawr|Fone> Do you have a lot to do at work today?
+08:18:46 <Dot`> yea, i need to finish off my section of the current project by end of tuesday
+08:19:08 <Dot`> so i can take over another persons project
+08:20:10 <Dot`> you?
+08:22:04 <Rawr|Fone> Not much
+08:22:38 <Rawr|Fone> Working on sending automatic emails from our api
+08:24:04 <Dot`> rawr developing a spam system
+08:24:24 <Rawr|Fone> Yes pretty much
+08:44:00 -!- Micen [~Micen@h106.208.18.98.dynamic.ip.windstream.net] has joined #tlponies
+08:44:26 -!- reification [~thomas@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+08:44:26 -!- mode/#tlponies [+v reification] by Q
+08:48:49 <Dot`> hey reif
+08:49:09 <reification> hi dotties
+08:52:52 <Rawr|Fone> Reef reef
+08:57:09 <reification> roar roar
+09:07:07 -!- carcinisation [~thomas@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+09:07:07 -!- mode/#tlponies [+v carcinisation] by Q
+09:32:58 -!- Rawr|Fone [~AndChat52@c-94cfe455.020-164-6d6c6d4.bbcust.telenor.se] has joined #tlponies
+09:36:09 <carcinisation> .tell runbunny https://twitter.com/Whuuwu/status/1254013949185589249
+09:47:00 -!- Micen [~Micen@h106.208.18.98.dynamic.ip.windstream.net] has joined #tlponies
+09:47:03 -!- tredc [~tredc@c83-254-129-166.bredband.comhem.se] has joined #tlponies
+10:29:16 -!- reification [~thomas@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+10:29:16 -!- mode/#tlponies [+v reification] by Q
+10:31:25 -!- Rawr|Phone [~AndChat52@m83-187-161-197.cust.tele2.se] has joined #tlponies
+10:32:22 -!- Runbunny [~Bunnykitt@91.100.28.10.generic-hostname.arrownet.dk] has joined #tlponies
+10:32:59 <Runbunny> Hai~
+10:33:26 <Dot`> runbun!
+10:33:36 <Runbunny> Dot!
+10:47:59 <reification> bun!
+10:48:22 <Runbunny> Reif!
+10:49:31 -!- Micen [~Micen@h106.208.18.98.dynamic.ip.windstream.net] has joined #tlponies
+10:51:57 <reification> did i link this? https://twitter.com/AnimegirlENG/status/1253959051291119616
+11:00:25 -!- carcinisation [~thomas@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+11:00:25 -!- mode/#tlponies [+v carcinisation] by Q
+11:10:58 <Runbunny> Hahaha Reif.
+11:51:42 -!- Micen [~Micen@h106.208.18.98.dynamic.ip.windstream.net] has joined #tlponies
+12:49:07 -!- DuB` [DuB@cpe-68-174-122-249.nyc.res.rr.com] has joined #tlponies
+12:50:38 <Dot`> dub dub
+12:54:34 -!- Micen [~Micen@h106.208.18.98.dynamic.ip.windstream.net] has joined #tlponies
+12:54:49 -!- Rawr|Fone [~AndChat52@c-94cfe455.020-164-6d6c6d4.bbcust.telenor.se] has joined #tlponies
+13:03:25 -!- Cane [~Cane@CaneCraft.users.quakenet.org] has joined #tlponies
+13:03:25 -!- mode/#tlponies [+o Cane] by Q
+13:23:54 <Runbunny> Why don't we have hentai hazmat suits Reif?
+13:26:37 <carcinisation> well i can combine mask and goggles with an anime t-shirt. that should be good enough
+13:30:38 <carcinisation> also til about the bohr effect, you must continue the danish tradition of blood experiments runbun
+13:40:17 <Runbunny> O:
+13:40:20 <Runbunny> I want to.
+13:56:21 -!- Micen [~Micen@h106.208.18.98.dynamic.ip.windstream.net] has joined #tlponies
+13:58:28 -!- Rawr|Fone [~AndChat52@c-94cfe455.020-164-6d6c6d4.bbcust.telenor.se] has joined #tlponies
+14:05:34 <carcinisation> squirrel is live runbunny, now with added betrayal https://www.youtube.com/watch?v=wlJ94W8xGW8
+14:12:58 <Runbunny> Training for that eventual Pekora game.
+14:15:17 <Runbunny> Meanwhile the other squirrel is playing some weird beat 'em up. https://www.youtube.com/watch?v=ddLqSMcfZGc
+14:22:10 -!- skram [~skram@82.147.53.20] has joined #tlponies
+14:22:53 <skram> well well well
+14:23:04 <Dot`> llew
+14:23:12 <skram> look at all these butts
+14:27:29 <skram> Hows your face, Dot`
+14:29:27 -!- Rawr|Fone [~AndChat52@c-94cfe455.020-164-6d6c6d4.bbcust.telenor.se] has joined #tlponies
+14:30:34 <Rawr|Fone> 🐴🐴🐴
+14:38:42 <Dot`> my headache continues skram
+14:38:51 <Dot`> better each day at least
+14:38:54 <skram> have you tried drugs
+14:39:14 <Runbunny> Have you tried more drugs?
+14:39:18 <Dot`> yea, but starting to run low
+14:41:20 <Rawr|Fone> Hmm
+14:46:29 <carcinisation> time for head transplant. i'll get my saw...
+14:46:50 <skram> good timing, I just bough a miter saw
+14:47:05 <Dot`> only if it can be done while keeping proper distance
+14:47:34 <skram> whos head are we gonna put in him carcinisation
+14:47:38 <skram> on
+14:48:28 <carcinisation> oh dear, i don't have any replacement heads in the freezer
+14:48:46 <skram> aw shucks
+14:48:51 <Dot`> what atime to run out
+14:51:59 <Dot`> and hows your face skram
+14:52:24 <skram> pretty good
+14:52:25 <skram> not for sale tho
+14:52:48 <Dot`> hmm
+14:53:02 <skram> i went to the lumberyard and got me some trees
+14:54:51 <Dot`> dead trees?
+14:59:12 <skram> yeah
+14:59:16 <skram> sliced into neat pieces
+14:59:22 -!- Micen [~Micen@h106.208.18.98.dynamic.ip.windstream.net] has joined #tlponies
+14:59:31 <Dot`> D:
+15:00:29 <Runbunny> For you to chew on?
+15:00:46 <Dot`> do horses chew on wood?
+15:01:21 <skram> yes i have such great big gap teeth i had to go there for tooth picks
+15:06:02 <Rawr|Fone> You should get someone to look at that jonas
+15:20:03 <skram> Im making a door for the shed where i store all my valuables, Dot`
+15:20:21 <Dot`> did you build the shed?
+15:20:23 <skram> like a brand new set of brake rotors for a 1996 mitsubishi i owned 5 years ago
+15:20:24 <Cane> Dot`, VP picked Tree.
+15:20:32 <Dot`> TREE??
+15:20:35 <Cane> https://www.twitch.tv/weplayesport_en
+15:20:36 <skram> nono the shed was there when i came
+15:20:37 <Dot`> thats not a thign cane
+15:20:42 <Cane> Right?
+15:22:11 <Dot`> and birb
+15:22:37 <Dot`> now to just get enchantres
+15:22:47 <Cane> Windrunner.
+15:23:04 <Cane> You know you want to.
+15:29:14 -!- Camail [~Camail@45.40.84.145] has joined #tlponies
+15:29:14 -!- mode/#tlponies [+v Camail] by Q
+15:32:52 <Rawr|Fone> Good evening camail
+15:32:57 <Camail> hiya
+15:33:19 <Dot`> tree not first ded
+15:33:24 <Dot`> cawail
+15:34:45 <Dot`> saddest antimage
+15:37:31 <Dot`> razor says no
+15:40:26 <skram> antimage has always been sad
+15:45:49 <Dot`> that was all tree
+15:47:00 <carcinisation> clearly the strongest hero
+15:47:06 <carcinisation> https://twitter.com/ImperatorOfPuns/status/1253764361321054211
+15:48:45 <Dot`> haha
+16:01:28 -!- Micen [~Micen@h106.208.18.98.dynamic.ip.windstream.net] has joined #tlponies
+16:07:04 -!- Zounds [webchat@cloak-07ouvien.14-2.cable.virginm.net] has joined #tlponies
+16:07:11 <Zounds> pons
+16:07:14 <Dot`> my favourite zounds
+16:07:22 <Zounds> hey
+16:07:32 <skram> zounds old pal
+16:08:15 <Zounds> o/
+16:11:51 -!- Rawr|Phone [~AndChat52@m83-187-184-246.cust.tele2.se] has joined #tlponies
+16:17:06 <Golly> QuakeNet will be shutting down temporarily for the month of May. Please move your chats to freenode and let us know that you have done so in the #freenode channel. Please register your nickname on freenode before doing so. Thanks and regards. - freenode and QuakeNet staff
+16:17:10 <Golly> uhhh
+16:17:25 <Golly> msg i got on another chan
+16:17:53 <skram> what
+16:17:59 <Dot`> wat
+16:18:03 <Golly> could be baloney idk
+16:18:22 <Dot`> zound sis out already
+16:18:30 <Dot`> zounds is*
+16:18:42 <Rawr|Phone> X to doubt
+16:19:15 <skram> if that was true it would probably be on a global server messenge or on the qnet website
+16:19:21 <Golly> yeah
+16:28:34 -!- reification [~thomas@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+16:28:34 -!- mode/#tlponies [+v reification] by Q
+16:31:07 -!- Zounds [webchat@cloak-07ouvien.14-2.cable.virginm.net] has joined #tlponies
+16:31:17 <Zounds> Works over so my internet decides to be a butt
+16:31:20 <Zounds> idk if thats good timing or terrible
+17:01:07 <Camail> there's no news on the quakenet site
+17:01:50 <Dot`> alien isolation is currently -95% on steam
+17:02:05 <Camail> not worth until its 105% off
+17:02:12 <Camail> then maybe i'll gift it to a few people
+17:02:47 <Dot`> very thoughtfull of you
+17:04:52 -!- Micen_ [~Micen@h106.208.18.98.dynamic.ip.windstream.net] has joined #tlponies
+17:05:25 -!- carcinisation [~thomas@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+17:05:25 -!- mode/#tlponies [+v carcinisation] by Q
+17:08:59 <Camail> skram  i found a body image that you could aspire to https://twitter.com/kyuri_08/status/1251873394322112513
+17:30:40 <Runbunny> I was surprised that it wasn't an image of a dwarf.
+18:02:00 <Dot`> skram
+18:03:28 -!- BioPhone [~androirc@097-070-165-146.res.spectrum.com] has joined #tlponies
+18:03:37 <Dot`> bio
+18:03:39 <BioPhone> Its Monday my dudes
+18:04:42 <Dot`> thats not wednesday
+18:07:33 <BioPhone> Tru
+18:09:27 -!- Micen_ [~Micen@h106.208.18.98.dynamic.ip.windstream.net] has joined #tlponies
+18:12:00 <BioPhone> I put together a lasagna
+18:12:09 <BioPhone> I shall eat some later
+18:14:45 <Dot`> what is the stream today bio?
+18:14:52 <Dot`> more xcom or more rando
+18:15:25 <BioPhone> Idk
+18:16:48 <Dot`> you dont have a plan?!?
+18:16:52 <Dot`> this is anarchy bio
+18:18:42 <DuB`> werk werk
+18:18:42 <BioPhone> P much
+18:18:57 <DuB`> o no skram mangadex is temporary ded
+18:19:02 <BioPhone> I have no work, its p much anarchy today
+18:19:38 <skram> ah frikk, i was just about to read the gyaru cleaning manga again
+18:21:08 <Dot`> im sure you have it dled already skram
+18:21:23 <Dot`> the whole archive
+18:22:03 <skram> well i do like terribly written mangos
+18:24:17 <Dot`> are there well written ones?
+18:25:05 <skram> course there is
+18:25:06 <skram> want a list?
+18:25:49 -!- Bio [~BioPon@097-070-165-146.res.spectrum.com] has joined #tlponies
+18:26:10 <Dot`> sounds dangerous
+18:27:46 <skram> did you watch bakarina yet DuB`
+18:28:28 <DuB`> No!
+18:28:47 <skram> its great
+18:29:08 <DuB`> But of course
+18:29:38 <DuB`> 4 ep so far I see
+18:29:41 <skram> go watch it DuB`
+18:29:46 <DuB`> ok
+18:29:50 <skram> thank
+18:29:55 <Dot`> you should wait dub
+18:30:03 <Dot`> till its all out
+18:30:27 <DuB`> Yes just like we did with stormlight
+18:30:30 <skram> dont listen to Dot`
+18:30:41 <Dot`> exactly dub
+18:31:38 <DuB`> Do I
+18:31:41 <DuB`> Anime during work
+18:31:42 <DuB`> hehe
+18:32:01 <skram> of course not, who would even do such a thing
+18:32:05 <skram> wink
+18:33:56 <Bio> you should anime during NEVER
+18:34:23 <skram> what the fuck is up bio
+18:34:36 <skram> step the fUUuUuck up, kyle
+18:35:07 <Bio> nice me.me
+18:35:44 <skram> thanks i practice a lot
+18:53:27 <Runbunny> Free game https://store.steampowered.com/app/201270/Total_War_SHOGUN_2/
+18:57:15 <Dot`> free!
+19:02:51 <Dot`> thanks bun
+19:14:19 -!- Micen_ [~Micen@h106.208.18.98.dynamic.ip.windstream.net] has joined #tlponies
+20:12:31 <Dot`> skram
+20:12:38 <skram> ye
+20:12:54 <Dot`> hello
+20:13:00 <skram> hi buddy
+20:13:02 <Dot`> how was work this weekend
+20:13:06 <skram> boring
+20:14:39 <skram> how was not-work this weekend
+20:14:42 <Dot`> not enough fires?
+20:15:01 <Dot`> the headache made it boring and painful
+20:15:12 <skram> fire was docile
+20:16:07 <skram> were you doing maths again
+20:16:13 <skram> that made your head hurt
+20:16:28 <skram> mine always hurts when i do calculus
+20:17:05 <Dot`> my head hurts when i attempt to be social
+20:27:46 <Rawr|Phone> Dot dot
+20:27:59 <Rawr|Phone> You are being social right now with us!
+20:29:07 <Dot`> hmm
+20:29:09 -!- Micen_ [~Micen@h106.208.18.98.dynamic.ip.windstream.net] has joined #tlponies
+20:29:55 <Dot`> my head is sore atm rawr
+20:30:03 <Rawr|Phone> Hmm
+20:31:35 <DuB`> Bakarina is absolute greatest, skram
+20:31:37 <DuB`> Muehehe
+20:32:31 <Dot`> is this another of skrams isekia
+20:32:47 <DuB`> pls
+20:32:51 <skram> PLS
+20:33:02 <skram> its really good
+20:33:03 <DuB`> It is the very best VILLAINESS story
+20:33:11 <skram> villainesekai
+20:33:21 <skram> you should go watch it, Dot`
+20:33:23 <DuB`> Best genre
+20:33:29 <skram> ill get you a premium pass
+20:34:04 <Runbunny> lel.
+21:06:37 <Bio> i sensed degeneracy
+21:06:44 <Bio> and returned from the living room
+21:06:47 <Bio> cease at once
+21:07:22 <Runbunny> Hai Bio.
+21:07:30 <Runbunny> When will you fix Dot's headache?
+21:08:42 <Bio> i sent him a tylenol in the mail like literal minutes ago
+21:08:45 <Bio> it should be better
+21:09:41 <Bio> what he truly needs though is some of my lasagna that is almost done
+21:09:44 <Bio> 5 more mins 
+21:10:04 <skram> jon
+21:10:07 <Runbunny> Blessed lasagna.
+21:10:07 <skram> i crave lasagna
+21:16:35 <Bio> and now the hard part, letting it rest
+21:16:43 <Bio> im also makin cookies tomorrow
+21:16:48 <Bio> so come on over boys
+21:16:53 <Runbunny> It can rest in your stomach.
+21:17:04 <Runbunny> Social distancing Bio.
+21:17:17 <Bio> pls
+21:17:44 <skram> yeah but cookies tho
+21:17:56 <skram> are they gonna be raisin cookies
+21:18:25 -!- Rawr|Fone [~AndChat52@c-94cfe455.020-164-6d6c6d4.bbcust.telenor.se] has joined #tlponies
+21:19:48 <Dot`> dark choclate chip with hints of orange pls
+21:21:20 <Bio> raisins barely belong anywhere, let alone a cookie
+21:21:33 <skram> i fuckin love raisins
+21:21:49 <skram> they are the superior state of grapes
+21:21:54 <Bio> yeah na
+21:22:03 <Bio> id rather have my juicy grapey bois
+21:22:20 <skram> ill go make my own cookies
+21:22:25 <skram> with raisins and hookers
+21:22:40 <Bio> don't forget the penicillin!
+21:47:45 -!- Rawr|Fone [~AndChat52@c-94cfe455.020-164-6d6c6d4.bbcust.telenor.se] has joined #tlponies
+21:47:51 <Bio> mm
+21:47:57 <Bio> yeah i nailed this lasagna bois
+21:48:02 <Bio> come get a square
+21:48:19 <Bio> (mainly to stop me from eating it all in one go)
+21:49:04 <skram> can i have a rectangle pls
+21:49:11 <Runbunny> I am proud of you Bio.
+21:50:24 <Bio> you will be here AND be square skrm
+21:55:48 <Runbunny> Dot`, Are you still here?
+22:08:22 -!- BioPhone [~androirc@097-070-165-146.res.spectrum.com] has joined #tlponies
+22:10:16 <skram> Runbunny, are you still here?
+22:11:23 <Bio> skram, are you still here?
+22:11:24 <Runbunny> Yes.
+22:11:39 <Runbunny> But twitch is dead and I was watching a stream :/
+22:11:54 <Runbunny> So now I am upset and seek validation.
+22:12:09 <skram> im afraid not Bio
+22:12:27 <skram> go look at a me me runbunny
+22:13:07 <Runbunny> I only found egirl twitch thots.
+22:13:26 <Runbunny> Unsuccessful attempt.
+22:14:21 <skram> I thought you liked twitch thots runbun
+22:16:17 <Runbunny> Why?
+22:19:15 <skram> they're basically irl anime grills
+22:26:15 <Runbunny> O:
+22:31:17 -!- BioPhone [~androirc@097-070-165-146.res.spectrum.com] has joined #tlponies
+22:43:44 -!- Rawr|Fone [~AndChat52@c-94cfe455.020-164-6d6c6d4.bbcust.telenor.se] has joined #tlponies
+23:44:29 -!- Rawr|Fone [~AndChat52@c-94cfe455.020-164-6d6c6d4.bbcust.telenor.se] has joined #tlponies

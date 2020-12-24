@@ -1,0 +1,181 @@
+00:30:48 * skram slaps Dot` around a bit with a large trout
+00:31:29 <Dot`> blarg
+00:31:49 <skram> are you in bakewell these days
+00:32:54 <Dot`> for 1 more week
+00:33:39 <skram> then its back to skelly man thorpe?
+00:34:21 <Dot`> yea, got some IO testing to do for the hull job
+00:34:36 -!- Bunny [webchat@cloak-gnrygg19.mbb.telenor.dk] has joined #tlponies
+00:34:50 <Bunny> Phone is being silly.
+00:35:16 <skram> IO testing is pretty peaceful though
+00:35:20 <skram> how many signals you got
+00:36:44 <Bunny> 4G full bars?
+00:37:31 <Dot`> dont actually know the number skram, but its not peacful, i have to go into leeds to the workshop and work all day with a mask on with the ppl who made the panel
+00:37:41 <skram> oh right
+00:37:43 <skram> its plague season
+00:37:51 <Dot`> testing signals, then later in the week got to do the test again with the client there
+00:38:36 <skram> analog signals too?
+00:38:40 <Bunny> You show them Dot.
+00:39:04 <Dot`> yea skram
+00:39:26 <Dot`> this includes LOI test
+00:39:53 <skram> whats LOI
+00:40:38 <Dot`> local operator interface, also called HMI, the touchscreen that sits on the PLC panel
+00:41:09 <skram> ah yes
+00:41:47 <skram> HMI panels are the woooorst
+00:41:54 <skram> what PLCs are you running?
+00:42:19 <Dot`> mitsi
+00:43:14 <skram> we have some melsec stuff on our remote plants
+00:43:27 <skram> havent used it much but the software is pretty messy
+00:44:48 <Dot`> all old software is messy, no one cleans up after themselves
+00:45:07 <skram> thats true, but i meant the programming sofware
+00:45:09 <skram> gx developer?
+00:45:31 <Dot`> yea, GXworks2
+01:02:51 <Dot`> i need to sleep. gnight
+01:03:00 <skram> good night pal
+01:03:09 <skram> oh look its 0200 again suddenly
+01:03:22 <Dot`> magic of timezones
+01:04:47 <BioSC> bing bong
+01:04:56 <BioSC> whats it like travelling into the past
+01:05:40 <skram> i have been in this place before
+01:10:34 <Bunny> oh no.
+01:10:45 <Bunny> That means I have to work even longer!
+01:13:19 <Bunny> Don't you need to sleep Jonas?
+01:13:47 <skram> at some point yes
+01:14:33 <skram> I think im gonna go to work for a lil bit and throw away some trash first though
+01:18:14 <Bunny> Burn some stuff as well?
+01:18:22 <skram> heck yeah bud
+01:19:04 <Bunny> Nice.
+02:52:45 -!- Bunny [webchat@cloak-gnrygg19.mbb.telenor.dk] has joined #tlponies
+08:06:56 -!- Dot` [webchat@5dx3.pthb.nklt.ip] has joined #tlponies
+08:48:57 -!- Cane [~Cane@CaneCraft.users.quakenet.org] has joined #tlponies
+08:48:57 -!- mode/#tlponies [+o Cane] by Q
+09:26:54 -!- Dot|Phone [uid393803@id-393803.brockwell.irccloud.com] has joined #tlponies
+10:15:42 -!- Rawr|Fone [uid440384@id-440384.highgate.irccloud.com] has joined #tlponies
+10:28:04 -!- tredc [~tredc@c83-254-129-166.bredband.comhem.se] has joined #tlponies
+11:14:14 -!- Runbunny [~Bunnykitt@91.100.28.10.generic-hostname.arrownet.dk] has joined #tlponies
+11:55:37 -!- reification [~thomas@cpc76296-cosh16-2-0-cust215.6-1.cable.virginm.net] has joined #tlponies
+11:55:37 -!- mode/#tlponies [+v reification] by Q
+11:57:13 <reification> hello tlp
+11:57:39 <reification> >sweden https://twitter.com/Progrockfarmer/status/1320212407495630848
+12:12:58 -!- Dot` [webchat@5dx3.pthb.nklt.ip] has joined #tlponies
+12:16:57 <Runbunny> Hai Reif.
+12:17:02 <reification> hi bun
+12:17:02 <Runbunny> Hai Dot.
+12:18:15 <Runbunny> Not sure I understand that tweet Reif.
+12:18:47 <reification> good for you
+12:18:59 <Dot`> Hey bun
+12:27:05 <reification> :O https://twitter.com/KimZetter/status/1320143485291229185
+12:41:38 <reification> .tell skram https://twitter.com/boukkayoru/status/1320112939882381312
+12:41:42 <reification> also bun
+12:48:37 <Runbunny> Peko peko.
+13:09:38 -!- skram [~skram@109.203.22.118] has joined #tlponies
+13:12:23 <reification> jonas
+13:13:05 <skram> reifen old pal
+13:13:53 <skram> that singin stream was pretty fire
+13:13:56 <skram> all 3 hours of it
+13:15:18 <reification> what i've seen was great
+13:16:56 <Runbunny> Jonas.
+13:17:07 <skram> Anders. You're awake.
+13:18:26 <Runbunny> Yes.
+13:18:29 <Dot`> sktam
+13:18:37 <Dot`> skram
+13:19:18 <skram> hello
+13:41:40 -!- Rawr|Fone [uid440384@id-440384.highgate.irccloud.com] has joined #tlponies
+13:51:01 -!- DuB` [DuB@cpe-68-174-122-249.nyc.res.rr.com] has joined #tlponies
+13:54:00 <Dot`> Dub
+13:58:47 <Runbunny> Dub.
+13:59:24 <DuB`> G'morn
+14:01:32 <reification> dawb
+14:29:05 <BioSC> mornin horens
+14:29:09 <BioSC> horsens*
+14:32:56 <Dot`> m
+14:37:29 <Runbunny> Hai bio.
+14:42:19 <BioSC> greet
+14:48:30 -!- Dot` [webchat@5dx3.pthb.nklt.ip] has joined #tlponies
+14:58:23 -!- Golly [~Username@cm-84.213.21.103.getinternet.no] has joined #tlponies
+15:03:55 <DuB`> .choose hades, monhun
+15:24:06 -!- Dot|Phone [uid393803@id-393803.brockwell.irccloud.com] has joined #tlponies
+15:48:23 <skram> .tell DuB` https://www.youtube.com/watch?v=ZWZsogXGngM
+16:00:47 <reification> https://twitter.com/Reaperfeed1/status/1319876980356059136
+16:08:54 <DuB`> yus skram
+16:08:55 <DuB`> yus yus
+16:10:53 <DuB`> Nigma Liquid https://www.twitch.tv/esl_dota2
+17:18:51 -!- Dot` [webchat@5dx3.pthb.nklt.ip] has joined #tlponies
+17:28:52 <Cane> BioSC, I still appreciate https://i.imgur.com/o6zTxML.jpg so much.
+17:31:56 <BioSC> lol, good times
+17:33:25 <BioSC> having a rough day of long war today so that made me smile a little
+17:34:31 <Cane> <3
+17:34:38 <Cane> You're a good dude.
+17:35:33 <BioSC> Thanks Cane <3
+18:46:58 -!- Rawr|Fone [uid440384@id-440384.highgate.irccloud.com] has joined #tlponies
+19:11:27 <Cane> Liquid ftw! <3
+19:11:45 <Cane> Midlane Cookie Grandma.
+19:28:44 -!- Camail [~Camail@45.40.84.145] has joined #tlponies
+19:28:44 -!- mode/#tlponies [+v Camail] by Q
+20:16:32 <Rawr|Fone> Hmm
+20:16:40 <Rawr|Fone> Horse horse
+20:36:47 <reification> roar roar
+20:37:09 <Rawr|Fone> Reef reef
+21:09:39 <reification> bun skram https://twitter.com/bluethebone/status/1320092703741202433
+21:14:02 <reification> i have just been told denmark is "the mexico of scandinavia" runbun confirm/deny
+21:14:43 <reification> also https://twitter.com/bluethebone/status/1317918374924554245/photo/1
+21:20:06 <BioSC> asdf
+21:25:57 <Runbunny> I don't know what that entails Reif.
+21:28:14 <Dot`> big hats and tacos?
+21:28:19 <Dot`> and siestes
+21:29:22 <Golly> people go there for vacations to shop and get drunk
+21:36:59 <Runbunny> Swedes and Norwegians come here to get cheap beer. 
+21:37:08 <Runbunny> We go to Germany to get cheap beer.
+21:38:39 <Golly> you'd think we would be clever enough to skip the middle man
+21:38:46 <Golly> probably too drunk tho
+21:38:59 <Runbunny> Same.
+21:39:38 <Runbunny> Anyhoo, it's time to go to work.
+23:05:08 <skram> Dot`
+23:05:33 <Dot`> Skram
+23:06:13 <skram> I made extra burritos so I could have them for lunch
+23:06:20 <skram> I accidentally eated them
+23:06:40 <Dot`> which lunch?
+23:06:51 <skram> tomorrow?
+23:08:01 <Dot`> ah, should have made them for todays lunch, then you would have been ok to eat them
+23:08:29 <skram> I already had lunch today :(
+23:09:42 <Dot`> well at least you wont have to eat tomrow
+23:09:57 <skram> I dont think thats quite how that works
+23:10:37 <Dot`> you only seem to be bringing problems here skram while i bring solutions
+23:10:57 <skram> thats what you think
+23:15:15 <Rawr|Fone> I agree with dot I think
+23:15:31 <Rawr|Fone> How about just making more food tomorrow jonteboi
+23:16:12 <skram> ill just get some knäckebröd i guess
+23:19:09 <Rawr|Fone> Hmm
+23:19:16 <Rawr|Fone> Doesn't sound like a lunch
+23:25:33 <Dot`> i think brod is bread 
+23:25:54 <skram> brød
+23:28:16 <Dot`> ?bread
+23:28:24 <Dot`> you never know
+23:30:31 <skram> true true
+23:31:49 -!- Bunny [webchat@cloak-gnrygg19.mbb.telenor.dk] has joined #tlponies
+23:31:57 <Bunny> It's me!
+23:32:01 <Bunny> I am back at work!
+23:32:09 <skram> the anders
+23:32:13 <skram> are you slacking off?
+23:32:20 <Bunny> No!
+23:32:38 <Bunny> am working vewwy hard.
+23:32:41 <Rawr|Fone> Anders
+23:32:55 <Dot`> runbun
+23:33:02 <Dot`> hob is taking today and monday off
+23:33:47 <Bunny> He's training so it's okay.
+23:35:30 <Bunny> He kinda needs to get Fallen order soon though.
+23:37:42 <Bunny> Henrik.
+23:39:13 <Rawr|Fone> I hope you are doing your best today
+23:41:31 <Bunny> I aspire to.
+23:42:33 <Rawr|Fone> That is good runbun, I'm proud of you
+23:44:26 <Bunny> Yes.
+23:45:25 <Bunny> Plenty of corona in Denmark, I can tell you.
+23:45:56 <Rawr|Fone> Hmm
+23:46:14 <Bunny> 40k tests and about 2% is positive.
+23:46:24 <Bunny> That's like 800 people per day.
+23:46:27 <skram> :(
+23:46:40 <skram> wash your hands, y'all
+23:48:26 <Bunny> It's a great time to only leave the house for work and just playing video games.
+23:52:00 <reification> it's a great time for sleep. g'night
+23:52:06 <skram> good night reifen
+23:52:09 <Bunny> Goodnight reif.
+23:53:52 <Dot`> gnight reif

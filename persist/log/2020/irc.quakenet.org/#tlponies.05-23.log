@@ -1,0 +1,310 @@
+00:00:56 -!- Dot|Phone [uid393803@2001:67c:2f08:5::6:24b] has joined #tlponies
+00:05:07 <Dot|Phone> Skram it's almost time for that nap
+00:14:28 <Kittybunny> Sure is.
+00:20:00 <Dot|Phone> Bun. Gl with sleep! 
+00:20:11 <Kittybunny> Thanks!
+00:56:34 -!- Rawr|Fone [~AndChat52@c-94cfe455.020-164-6d6c6d4.bbcust.telenor.se] has joined #tlponies
+01:04:44 <Camail> Rawr|Fone  so i figured out the bannerlord trade rumors mechanic, it will keep track of the last ~3 cities you've been to
+01:05:05 <Camail> so its not as broken as i thought, but its still very easy to establish a trade route for early game
+01:05:25 <Camail> also there are other ways later on to get trade rumors
+01:06:20 <Rawr|Fone> Hmm
+01:06:43 <Rawr|Fone> Seems kinda weird anyway
+01:06:59 <Rawr|Fone> I'll probably get the game next week
+01:07:40 <Rawr|Fone> But that doesn't change with trade skill? 
+01:12:52 <Camail> i am not entirely sure
+01:13:25 <Camail> a big benefit of the trade skill is the feats you get
+01:13:45 <Camail> at 75 you can gather trade rumors from caravans or workshops
+01:23:48 <Camail> i'm constantly getting urges to play terraria, then immediately feeling exhausted by doing the same content i've done like 10 times
+01:29:25 <Rawr|Fone> 😴😴😴
+03:20:52 -!- Camail [~Camail@45.40.84.145] has joined #tlponies
+03:20:52 -!- mode/#tlponies [+v Camail] by Q
+03:32:58 -!- Rawr|Fone [~AndChat52@c-94cfe455.020-164-6d6c6d4.bbcust.telenor.se] has joined #tlponies
+04:41:59 -!- Rawr|Fone [~AndChat52@c-94cfe455.020-164-6d6c6d4.bbcust.telenor.se] has joined #tlponies
+04:51:21 -!- Rawr|Fone [~AndChat52@c-94cfe455.020-164-6d6c6d4.bbcust.telenor.se] has joined #tlponies
+05:07:53 -!- Rawr|Fone [~AndChat52@c-94cfe455.020-164-6d6c6d4.bbcust.telenor.se] has joined #tlponies
+06:00:40 <Cane> .tell Dot` https://www.reddit.com/r/stalker/comments/gov2rp/when_a_stalker_glitches_irl/ that is way too good.
+06:23:12 -!- Golly [~kvirc@cm-84.213.21.103.getinternet.no] has joined #tlponies
+06:23:48 -!- Rawr|Fone [~AndChat52@c-94cfe455.020-164-6d6c6d4.bbcust.telenor.se] has joined #tlponies
+07:44:27 -!- Micen [~Micen@h106.208.18.98.dynamic.ip.windstream.net] has joined #tlponies
+08:03:01 -!- Rawr|Fone [~AndChat52@c-94cfe455.020-164-6d6c6d4.bbcust.telenor.se] has joined #tlponies
+08:10:14 -!- Rawr|Fone [~AndChat52@c-94cfe455.020-164-6d6c6d4.bbcust.telenor.se] has joined #tlponies
+08:21:27 -!- reification [~thomas@cpc76294-cosh16-2-0-cust297.6-1.cable.virginm.net] has joined #tlponies
+08:21:27 -!- mode/#tlponies [+v reification] by Q
+08:35:25 <Rawr|Fone> Good morning reef reef
+08:36:02 <reification> roar roar <3
+08:36:58 <Rawr|Fone> <3
+08:51:19 -!- Rawr|Fone [~AndChat52@c-94cfe455.020-164-6d6c6d4.bbcust.telenor.se] has joined #tlponies
+09:01:00 -!- Dot` [webchat@uqju.w7i1.rm0l.ip] has joined #tlponies
+09:05:26 -!- Runbunny [~Bunnykitt@91.100.28.10] has joined #tlponies
+09:05:36 <Dot`> Runbun <3
+09:05:38 <reification> dot bun!
+09:05:56 <Runbunny> Hai.
+09:06:02 <Runbunny> reification, https://twitter.com/kanihamiso/status/1264066632302784512
+09:06:58 <reification> lol
+09:07:29 <reification> ascii art characters do commonly suffer from dismemberment
+09:07:43 <reification> it is saturday morning, time for you to do mathematical estimation
+09:08:13 <reification> without calculating, imagine you roll 6 dice (d6) once a day for 30 years
+09:08:29 <reification> what is the chance you never see 6 sixes?
+09:09:54 <Dot`> 1/6 ^ ((30 * 356) + 5)
+09:09:59 <Runbunny> But Dot.
+09:10:02 <Dot`> something like that
+09:10:06 <Dot`> i really cant recall my statistacal math
+09:10:06 <Runbunny> That is calculating.
+09:10:09 <Dot`> maths
+09:10:20 <Dot`> oh
+09:10:22 <reification> yes dot you are well on the way to calculating
+09:10:38 <reification> <reification> without calculating
+09:10:41 <Dot`> my awnser without calcs is
+09:10:49 <Dot`> none
+09:11:12 <reification> interesting
+09:11:20 <Dot`> i have just woken up
+09:11:47 <Runbunny> It's very low that you don't see 6 sixes. 
+09:12:12 <reification> ty dotties, bun. i wanted to get a feel for ppls expectations.
+09:13:12 <reification> my calc says: (1-(1/6^6))^(30*365.25)=0.79
+09:14:17 <reification> (i don't think all the brackets are needed, i should learn the order properly...)
+09:15:43 <reification> oh i didn't get breakfast :/
+09:15:46 <Dot`> odd way to account for leap years as they are complete days, your adding descrepincy in
+09:15:58 <Dot`> too busy being a nerd
+09:16:02 <reification> crumpet time
+09:16:51 <reification> good enough for my inner engineer dot
+09:19:50 -!- Dot|Phone [uid393803@2001:67c:2f08:5::6:24b] has joined #tlponies
+09:24:25 <Rawr|Fone> Hmm
+09:25:46 <Dot`> i still feel that calc is off
+09:26:19 <Dot`> but i also feel ive just woken up and its been years, so im probably wrong
+09:27:39 <Dot`> would it not just be ((5/6) ^ (30*356.25))
+09:28:28 <Dot`> which gives 2.2 x10^(-846)
+09:29:39 <Dot`> you roll a d6 over 10000 times
+09:31:57 <Dot`> cane, hahaha
+09:32:02 <Dot`> now i want to play stalker......
+09:32:17 <Cane> Isn't that cosplay uncanny?
+09:32:34 <Dot`> i thought it was ingame at first....
+09:32:44 <Dot`> was trying to figure out the title
+09:36:25 <reification> dot that is rolling one dice a day for 30 years and not seeing a single six...
+09:36:33 <reification> maybe you misread what i asked?
+09:37:12 <Dot`> [10:08] <+reification> what is the chance you never see 6 sixes
+09:37:18 <Dot`> is that a term i dont get then
+09:37:27 <Dot`> i took that as any sixes
+09:38:01 <Dot`> aahhhh
+09:38:11 <Dot`> on the 10th read i get it
+09:38:22 <Dot`> ive had some coffee now
+09:38:25 <Dot`> haha
+09:38:27 <Golly> 10/10 math 1/1 reading comprehension
+09:38:34 <Golly> 1/10 lul
+09:38:53 <Dot`> its like putting the the in a sentence
+09:43:00 <reification> .roll 6d6
+09:43:06 <reification> not today
+09:46:56 -!- Rawr|Fone [~AndChat52@c-94cfe455.020-164-6d6c6d4.bbcust.telenor.se] has joined #tlponies
+09:50:26 -!- tredc [~tredc@c83-254-129-166.bredband.comhem.se] has joined #tlponies
+09:51:27 -!- skram [~skram@82.147.53.74] has joined #tlponies
+09:55:38 <Dot`> skram!
+09:56:04 <skram> El Bjørno
+09:56:36 <skram> i got bannerlord refunded
+09:59:14 <Dot`> oh? not the game for you?
+09:59:59 <skram> eh im probably missing something but it felt mostly pointless
+10:00:27 <Rawr|Fone> Maybe you are not such a huge nerd jonas
+10:00:50 <skram> Had a quest to talk to a noble about a thing, where is said noble? dunno, visit every castle ever
+10:00:54 <skram> too janky, rawr
+10:01:17 <Rawr|Fone> Hmm
+10:03:32 <Runbunny> reification, You really made me look deep into a rabbit hole I was not prepared for.
+10:04:09 -!- Dot` [webchat@uqju.w7i1.rm0l.ip] has joined #tlponies
+10:04:29 <skram> are you looking at pekora lewds runbunny
+10:04:45 <Runbunny> Id' wish.
+10:04:50 <Runbunny> I am doing math.
+10:04:59 <Runbunny> Probability math even.
+10:12:26 -!- Rawr|Fone [~AndChat52@m83-185-88-151.cust.tele2.se] has joined #tlponies
+10:12:58 <reification> probably more healthy for your brain runbun
+10:15:09 <reification> https://twitter.com/Vfoop4CPbmHwvmn/status/1263469935491198977
+10:34:50 <Dot`> skram, i got another person addicted to adventure zone
+10:37:37 <skram> great job
+11:06:08 <skram> its raining really hard and it super duper loud against the steel sheet roof i have
+11:06:13 <skram> this is strangely comforting
+11:12:36 <Dot`> hmm, sounds nice
+11:39:24 <reification> it's a nice sound, when you don't have to go out in it
+13:04:39 <Runbunny> I return.
+13:04:47 <Runbunny> Went on a long walk.
+13:06:34 <Runbunny> .tell DuB` https://www.youtube.com/watch?v=VCdm0sH3WB4
+13:06:41 <Runbunny> skram look at it as well.
+13:09:18 -!- Dot|Phone [uid393803@2001:67c:2f08:5::6:24b] has joined #tlponies
+13:38:22 <Dot|Phone> Pons
+13:59:06 <skram> dot
+14:01:19 <Dot|Phone> Skram
+14:01:25 <skram> hi
+14:01:25 <Dot|Phone> Hi friend
+14:01:29 <Dot|Phone> What doing
+14:02:43 <skram> looking at cool stuff on the internet
+14:02:53 <skram> went to the plant store and got several plants
+14:05:01 <Dot|Phone> More strawberries? 
+14:05:21 <skram> flowerz, bro!
+14:05:28 <Dot|Phone> Woo! 
+14:05:37 <skram> rhododendrons and red whatsits and some green things
+14:05:47 <Dot|Phone> Going to win best Garden prize this year? 
+14:06:06 <skram> haha no
+14:06:32 <Dot|Phone> I believe in you
+14:06:39 <skram> they had sakura trees which woulda been nice but they were like 150£
+14:07:04 <Dot|Phone> Also I advise you go dig up all the competitions gardens
+14:07:29 <Rawr|Fone> Horses
+14:07:45 <Dot|Phone> Rawrses
+14:07:49 <skram> henriks
+14:09:34 <Rawr|Fone> Good afternoon dear friends
+14:10:39 <skram> good evening old friend
+14:15:39 <Dot|Phone> What you up to today Rawr. Being great? 
+14:18:21 <Golly> https://www.youtube.com/watch?v=myiJB8SiIcU
+14:18:55 <Rawr|Fone> I just got done playing table tennis dot
+14:19:22 <Dot|Phone> Did you win? 
+14:19:34 <Rawr|Fone> Won some lost some
+14:22:48 -!- Runbunny [~Bunnykitt@91.100.28.10.generic-hostname.arrownet.dk] has joined #tlponies
+14:30:46 <Rawr|Fone> Anders.
+14:33:41 <Runbunny> Hai.
+14:34:01 <Runbunny> Internet went out for like an hour.
+14:34:59 <Rawr|Fone> Very tragic
+14:35:02 <Rawr|Fone> I'm glad you are back
+15:05:09 -!- DuB` [DuB@68.174.122.249] has joined #tlponies
+15:05:17 <Dot`> Dub Dub
+15:05:23 <DuB`> Dot Dot
+15:06:17 -!- skram [~skram@86.106.103.103] has joined #tlponies
+15:11:01 -!- Rawr|Fone [~AndChat52@c-94cfe455.020-164-6d6c6d4.bbcust.telenor.se] has joined #tlponies
+15:16:09 -!- Camail [~Camail@45.40.84.145] has joined #tlponies
+15:16:09 -!- mode/#tlponies [+v Camail] by Q
+15:16:29 <skram> look at this camail
+15:16:45 <Camail> no dont
+15:17:31 <skram> adorable
+15:50:53 <Bio> asdf
+15:55:33 <Rawr|Fone> Bayo
+15:55:52 <Bio> gmorn
+18:02:11 <skram> hey Bio are you alive
+18:02:24 <Bio> no
+18:02:28 <skram> :(
+18:02:29 <skram> F
+18:02:48 <skram> https://www.youtube.com/watch?v=dmkRV8SPBng
+18:03:11 -!- skrma [~skram@82.147.53.74] has joined #tlponies
+18:05:46 <skrma> .tell Runbunny https://www.youtube.com/watch?v=MwCNEySMNWg
+18:12:56 <Runbunny> Nice.
+18:31:56 <Golly> https://imgur.com/gallery/DsWsyYh
+18:34:05 <skrma> me_irl at c'thun in 2004
+18:34:39 -!- Rawr|Fone [~AndChat52@c-94cfe455.020-164-6d6c6d4.bbcust.telenor.se] has joined #tlponies
+18:37:08 <Golly> Ackchyually The Gates of Ahn'Qiraj wasnt released untill 2006
+18:37:16 <Golly> factually incorrect sir
+18:37:34 <skrma> aw shucks
+18:42:34 <Runbunny> skrma, enjoy https://www.youtube.com/watch?v=ZTH4Rgrx9W4
+18:42:54 <skrma> very boing boing
+18:46:08 <Golly> https://i.kym-cdn.com/photos/images/newsfeed/001/842/713/b73.jpg
+18:48:55 <skrma> being in jail with a buncha other honry ppls sounds like a not good time golly
+18:49:22 <Golly> mandatory cold showeras
+18:50:14 <skrma> better to eat raw potatoes
+19:07:20 -!- Rawr|Fone [~AndChat52@c-94cfe455.020-164-6d6c6d4.bbcust.telenor.se] has joined #tlponies
+19:13:43 -!- Westy543 [Westy543@c-24-130-12-152.hsd1.ca.comcast.net] has joined #tlponies
+19:13:47 -!- mode/#tlponies [+v Westy543] by Q
+20:03:11 <skrma> Dot`: https://imgur.com/gallery/asnfbMo
+20:06:50 <Golly> https://www.youtube.com/watch?v=Lw9vndDS88I
+20:10:58 <reification> neat mv earlier golly
+20:13:39 <Golly> the twinklestar one?
+20:15:30 <reification> ya
+20:16:48 <Golly> one of those things where an animator you forgot you were subbed to suddenly uploads
+20:24:21 -!- Camail [~Camail@45.40.84.145] has joined #tlponies
+20:24:21 -!- mode/#tlponies [+v Camail] by Q
+20:29:28 <Camail> hey DuB` if you could stop cutting my power out, that'd be great
+20:29:35 <Camail> i know its funny for you, but its inconvenient
+20:32:22 -!- Rawr|Fone [~AndChat52@c-94cfe455.020-164-6d6c6d4.bbcust.telenor.se] has joined #tlponies
+20:32:50 <DuB`> But I need all the juice for ME
+20:33:00 <Camail> ruuuuuuude
+20:33:06 <Camail> Runbunny  make him stop :(
+20:33:27 <Camail> should we TTS tomorrow, or is that dnd day
+20:33:33 <Runbunny> Hai.
+20:33:40 <Camail> hullo
+20:33:40 <skrma> TTS yes
+20:33:47 <Runbunny> He cut my power earlier as well.
+20:33:54 <Camail> wtf
+20:33:55 <Runbunny> The nerve of this Dub.
+20:35:37 <DuB`> The JOOOCE
+20:37:54 <Camail> Runbunny  my bannerlord character has a tonf of charisma, my interactions with my now wife went as followed "tbh I'm not very attracted to you" "ok but, if i love you hard enough maybe you love me too?"
+20:38:03 <Camail> this dialog is weird
+20:38:15 <Runbunny> O:
+20:38:28 <Camail> and i hit a crit success so she apparently liked that creepy shit
+20:38:44 <Runbunny> Isn't that very "nice guy" ish?
+20:39:06 <Camail> yea but it had a 69% crit success chance so it was optimal
+20:39:44 <Camail> and she's like, a battlemaiden so she isnt even in the castle
+20:39:51 <Camail> just out and about killing shit
+20:40:02 <Camail> the perfect bride, i aint about that patriarchy
+20:40:08 <Runbunny> Heh.
+20:40:19 <Camail> she could kick my ass so hard
+20:41:33 <Runbunny> And you'd like it.
+21:09:33 -!- Rawr|Fone [~AndChat52@c-94cfe455.020-164-6d6c6d4.bbcust.telenor.se] has joined #tlponies
+21:35:48 -!- Rawr|Fone [~AndChat52@c-94cfe455.020-164-6d6c6d4.bbcust.telenor.se] has joined #tlponies
+21:37:25 <Camail> the core mechanics of bannerlord are so much better than the original so far
+21:46:26 -!- Cane [~Cane@CaneCraft.users.quakenet.org] has joined #tlponies
+21:46:26 -!- mode/#tlponies [+o Cane] by Q
+22:13:31 -!- Rawr|Fone [~AndChat52@c-94cfe455.020-164-6d6c6d4.bbcust.telenor.se] has joined #tlponies
+22:21:08 -!- Golly [~kvirc@cm-84.213.21.103.getinternet.no] has joined #tlponies
+22:23:58 -!- Dot` [webchat@uqju.w7i1.rm0l.ip] has joined #tlponies
+22:24:29 <Bio> DUNE tomorrow
+22:25:01 <Runbunny> The movie hopefully.
+22:25:08 <Bio> board game
+22:25:14 <Bio> les go
+22:25:18 <Dot`> k
+22:25:55 <Runbunny> Board game?
+22:26:03 <Bio> board game
+22:26:27 <Runbunny> Looks too complicated.
+22:26:43 <Dot`> runbun snela
+22:26:47 <Dot`> also i think skram is ded
+22:28:31 <Rawr|Fone> D:
+22:28:35 <skrma> im making dinner
+22:28:58 <Dot`> you left before dnd ended
+22:29:11 <skrma> oh
+22:29:28 <skrma> well you said this is where we'll end it and i was about to die so i ran to the kitchen
+22:30:50 <Dot`> you didnt say bye or respond to the question i asked right after i said we where calling it there 
+22:31:05 <Dot`> and i hadnt hear dyou for like 20 minutes before that
+22:32:23 <skrma> sorry about that
+22:34:50 <Bio> pls no die thx
+22:35:00 <Bio> then rho can't take u to the rich prom
+22:35:23 <skrma> we gon b the prom queen
+22:46:26 <reification> well i started the day calculating dice probabilities and finished writing windows batch files...
+22:46:31 <reification> g'night all
+22:46:41 <Runbunny> Sleep well Reif.
+22:46:55 <Dot`> gnight reif!
+22:50:48 <Dot`> Runbun, i havnt sene hob do Dark souls 1 in a while
+23:09:18 <Runbunny> He has been focusing a lot on Bloodborne and Sekiro.
+23:09:43 <Dot`> yea
+23:15:27 <Dot`> dub
+23:15:31 <Dot`> hows terarara going?
+23:16:04 -!- Dot|Phone [uid393803@2001:67c:2f08:5::6:24b] has joined #tlponies
+23:18:17 <skrma> Runbunny: https://www.youtube.com/watch?v=P7nMP4udchM
+23:18:34 <skrma> wrong one
+23:18:39 <skrma> Runbunny: https://www.youtube.com/watch?v=Xc3aHCSsCRA
+23:21:07 <Runbunny> skrma, https://www.youtube.com/watch?v=Kmmo5rgb64c&feature=youtu.be&t=146
+23:22:52 <Runbunny> oh right Iofi's favorite artist. I was reminded of stuff I'd rather forget.
+23:23:46 <skrma> same
+23:24:54 <skrma> sometimes i almost forget that they're idols, runbun
+23:25:11 <skrma> what with all of them being perverts and all
+23:35:15 <Runbunny> It's like they're real people and not just some idol on a pedestal. Makes them feel more relatable.
+23:37:04 <Runbunny> And that's why Pekora will always have a special place in my heart.
+23:37:36 <skrma> as a fellow bunny
+23:38:43 <Runbunny> I'd nibble on her carrots, if you know what I mean.
+23:39:21 <Micen> o.o  what /DO/ you mean?
+23:40:29 <skrma> she has carrots in her hair and runbunny is hungry, i guess
+23:40:35 <Runbunny> :3
+23:42:12 <Micen> I think when worn in that way they are called hairots 
+23:43:43 <Runbunny> They're definitely just carrots somehow caught in the braids.
+23:44:39 <skrma> https://i.redd.it/pxil1zrtwlv41.jpg
+23:45:17 <skrma> i havent seen you in days and the first thing you do is a dad joke, micen
+23:45:19 <skrma> never change
+23:45:24 <Bio> micen we didn't die!
+23:45:36 <Bio> and we didn't even sacrifice you!
+23:46:10 <Dot|Phone> And you didn't randomly open any bad doors
+23:46:30 <Bio> yeh!
+23:47:41 <Dot|Phone> It's like when you sick to the plan things don't fall apart immediately. Could all your death and sadness be self inflicted?? 
+23:48:19 <skrma> rude
+23:48:27 <skrma> if theres a door you need to open it
+23:48:29 <skrma> its common sense
+23:49:04 <Bio> yeh that makes sense
+23:50:44 <Dot|Phone> Are you saying I'm to blame because I don't remove all but the doors you should go through
+23:50:49 <skrma> yes
+23:54:29 <Micen> my computer hasnt been hooked up in days Skram. ive been feeling bad unhooking it.  
+23:57:11 <skrma> well its good to see you
+23:57:32 <Runbunny> Lads.
+23:57:36 <Runbunny> I should be sleeping.
+23:57:38 <Runbunny> Goodnight.
+23:57:42 <skrma> godnat andersdreng
+23:57:42 <Dot|Phone> No
+23:57:47 <Runbunny> Yes.
+23:57:58 <Dot|Phone> Ok
+23:58:00 <Dot|Phone> Gnight

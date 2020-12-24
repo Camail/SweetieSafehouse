@@ -1,0 +1,221 @@
+17:06:34 -!- sweetiebot [~skybot@209.141.41.184] has joined #tlponies
+17:06:42 <Dot> .tell camail you butt
+17:06:50 <Runbunny> Well Dub. 
+17:07:07 <Runbunny> Sounds like you never had rat burger.
+17:07:43 <Camail> so it turns out i had a 10gb log file, presumably from a brute force attempt
+17:07:46 <DuB`> hurk
+17:10:10 <Dot> thats a lot of log
+17:10:28 <Zounds> don't brute force the robo-filly
+17:10:58 <Zounds> whoever is out there and really wants our random nonsense
+17:11:22 <Dot> they want all the pony .tells
+17:20:58 <Dot> .tell crisium https://www.deviantart.com/evehly/art/Pls-Gib-Spayce-794136182
+17:26:47 <Camail> hey so even though i didnt need to migrate logs off the vps to make room, i did it anyway for posterity
+17:26:51 <Camail> https://github.com/Camail/skylogs
+17:27:03 <Camail> so if you want tlp logs from 2015 to now, here they are
+17:27:22 <Dot> wow
+17:27:24 <Camail> hopefully you didnt tell sweetie anything incriminating because most of those are in there too
+17:27:36 <Dot> i thought you stopped the logs about 2 years ago becuase it was slowing swoots down
+17:27:57 <Dot> ?logs
+17:27:58 <Camail> that was the database
+17:28:09 <Dot> .r Logs https://github.com/Camail/skylogs
+17:28:47 <Camail> the DB got corrupted and have to be remade, but it's also int here too
+17:29:01 <Camail> i just cloned the entire storage directory...
+17:30:31 <Camail> oh, so its really form 2016 to now
+17:31:41 <Camail> thats when the old server was abandoned
+17:43:57 <Dot> rawr https://imgur.com/gallery/9IecAvP
+17:53:59 <Dot> was this you runbun? https://www.bbc.co.uk/news/health-47960874
+17:54:08 <Dot> Is this why you need the rats?
+18:04:40 <Runbunny> I can't deny nor confirm that Dot.
+18:07:04 <Dot> zombie rat apocalypse inbound
+18:07:14 -!- Rawr|Fone [~AndChat52@c213-89-110-176.bredband.comhem.se] has joined #tlponies
+18:46:01 <Rawr|Fone> 🏓🏓🏓
+18:46:14 <Rawr|Fone> DoT DoT
+18:46:20 <Dot> Rawr Rawr
+18:46:22 <Dot> <3 <3
+18:46:30 <Rawr|Fone> ❤❤
+18:46:41 <Rawr|Fone> How is your evening going dotpon
+18:48:04 <Dot> good rawr, lacks a dog though
+18:48:07 <Dot> hows yours?
+18:48:34 <Rawr|Fone> Mine is not lacking in the dog department
+18:53:13 <carcinization> runbun it cannot be stopped https://www.pokerstarsschool.com/live-training
+18:53:24 <carcinization> *https://store.steampowered.com/app/1036580/National_Park_Girls/
+18:53:34 <carcinization> clipboard mistake
+19:09:23 <Runbunny> I just caught myself thinking, "I am no good at poker"
+19:18:43 <carcinization> you have to believe in yourself runbun
+19:21:46 <Dot> i believe in your runbun
+19:33:35 -!- skram [~skram@82.147.53.175] has joined #tlponies
+19:33:40 <Dot> Jonas!
+19:34:15 <Rawr|Fone> Jonas!
+19:34:43 <skram> Henrik & Bjørn, my favorite boyband
+19:36:12 <Runbunny> Oh!
+19:36:25 <Runbunny> Can they please be a real boyband!?
+19:36:46 <skram> i think they do nsync covers in japan, runbunny
+19:37:09 <Runbunny> IT JUST KEEPS GETTING BETTER!
+19:38:17 <Camail> pls
+19:39:20 <Runbunny> Let me enjoy in my fantasy, Camail.
+19:39:46 <Rawr|Fone> 🤨🤨🤨
+19:42:27 <Camail> dreams are for happy people runbun, we don't get to have them
+19:44:50 <Runbunny> Boo.
+19:45:18 <Runbunny> I eagerly await for the world tour then.
+20:16:50 <skram> anders
+20:21:19 <DuB`> Last school presentation done!
+20:21:26 <DuB`> Now just 4x exams
+20:21:40 -!- Crisium [~Crisium@c-73-174-151-51.hsd1.pa.comcast.net] has joined #tlponies
+20:21:45 <skram> Yeh booooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooi
+20:21:58 <Crisium> howdy
+20:22:12 <skram> howdy partner
+20:22:44 <carcinization> hi cris
+20:23:55 <Zounds> hello
+20:23:58 <DuB`> skram is that your longest yeh boi ever?
+20:24:17 <skram> You know it
+20:29:48 -!- Phearlock [webchat@cloak-e3kb14bi.208.146.128.getinternet.no] has joined #tlponies
+20:29:51 <Phearlock> Evening ponypons
+20:30:04 <Phearlock> Happy easter vacation to those it applies to =P
+20:30:27 <skram> phearlock old pal
+20:30:36 <Phearlock> Hey skram =)
+20:30:45 <skram> gotta get that sweet sweet helligdagstilegg
+20:31:14 <Phearlock> I got a shift on saturday when the store is open for a few hours. Otherwise got easter off.
+20:32:02 <skram> got the weekend off
+20:32:07 <skram> i dont have any plans at all
+20:32:09 <skram> maybe ill eat an orange
+20:37:57 <Rawr|Fone> Don't go too crazy jonas 
+20:38:14 <skram> its alright, henrik
+20:38:17 <skram> im a big boy
+20:38:34 <Rawr|Fone> Are you though
+20:42:36 <CockRoach|42> off work until tuesday! \o/
+20:44:52 <skram> u son of a gun
+20:46:50 -!- Golly [Golly@cm-84.212.249.112.getinternet.no] has joined #tlponies
+20:48:26 -!- BioPhone [~androirc@12.33.239.117] has joined #tlponies
+20:48:32 <BioPhone> Hej
+20:48:34 <Rawr|Fone> Waow cr
+20:48:41 <Rawr|Fone> Hay biohorse
+20:50:21 <BioPhone> Time to fill out hors hours and go do the home
+20:54:01 <carcinization> zounds https://www.youtube.com/watch?v=XyyGXngbEvA
+20:57:57 <DuB`> I was gonna take one of my finals first thing tomorrow morning but I guess the actual finals week starts on friday so I can't!
+20:57:59 <DuB`> Now what
+20:58:16 -!- BioPone [~androirc@mobile-166-170-26-174.mycingular.net] has joined #tlponies
+20:59:25 <Zounds> lel reif
+21:08:43 <Runbunny> Dub isn't it like, easter holidays and stuff?
+21:09:56 <Dot> https://www.kickstarter.com/projects/arcanumworlds/odyssey-of-the-dragonlords-5th-edition-adventure-b/ mmmm DnD Greek stuff
+21:10:12 <Dot> i should play Titan Quest again
+21:11:11 <Runbunny> Have you played Grim dawn Dot?
+21:11:15 <Dot> yes
+21:11:22 <Dot> nit the 2 latest dlc though
+21:11:25 <Dot> not*
+21:12:38 <Zounds> titan quest was good
+21:13:19 <Dot> there was a 10 year anneversery thing
+21:13:21 <Dot> with a new DLC
+21:15:39 <Bio> hey
+21:15:41 <Bio> its me
+21:15:44 <Bio> the home guy
+21:15:46 <Runbunny> Hai Bio
+21:15:51 <Crisium> oh no hes here
+21:15:53 <Runbunny> It's me, your worst nightmare.
+21:16:21 <Runbunny> It's alright Crisium, I'll bother him by existing.
+21:18:27 <Zounds> what are folks up to
+21:18:32 <Zounds> except bio I know he's busy being home
+21:18:40 <Dot> sleep time i think
+21:18:54 <Zounds> g'night dottles
+21:19:06 <Dot> get to work early to get off early is the plan, but i will probably just hit snooze on my alarm as normal
+21:19:28 <Zounds> Such is the human experience
+21:23:05 <Bio> stockpile the hourse
+21:23:07 <Bio> to come home
+21:23:13 <Bio> be the best dot
+21:23:28 <Bio> henlo fridns
+21:23:46 <Rawr|Fone> Anders my dear friend
+21:23:48 <carcinization> greets bio
+21:23:53 <Rawr|Fone> Bio bayo
+21:24:27 <Bio> asdf
+21:24:28 <Runbunny> Henrik. When will more dogs photos appear?
+21:24:36 <Bio> i wanna do a video game 
+21:24:38 <Bio> i think
+21:24:59 <Rawr|Fone> Maybe tomorrow anders
+21:25:28 <Runbunny> Which video game are you doing Bio?
+21:25:35 <Runbunny> I am looking forward to it.
+21:25:59 <Bio> idk
+21:26:13 <Bio> I shall think upon it
+21:28:16 <DoT|Phone> probably won't be lewd enough for you Runbun
+21:28:28 <DoT|Phone> we know you only pay those anime games on steam
+21:30:20 <Zounds> Crisium: you wanna play 4v4?
+21:31:30 <Crisium> i dont think im gonna play anymore today, i did for like 45 mins but my wrist is still too sore
+21:32:00 <Zounds> aw okay
+21:32:39 <Runbunny> That reminds me that I need to get that nekopara DLC.
+21:36:17 <reification> dot https://www.instagram.com/p/BwU6EcaAvdA/
+21:36:28 <reification> dot rawr https://www.instagram.com/p/BvxBOPhgGsQ/
+21:37:24 <Rawr|Fone> Did you abandon twitter for instagram reef reef
+21:37:29 <DoT|Phone> Reif. I only took you up 1 cliff side
+21:37:59 <reification> and you told tales of dangling off cliffs by a chain!
+21:38:17 <reification> rawr no only for this comic
+21:38:59 <DoT|Phone> that's the only way up signal hill Reif. it's not my fault
+21:41:08 <DoT|Phone> and you didn't die. so it's all good
+21:43:20 <reification> sounds like survivor bias dot
+21:43:22 <reification> https://twitter.com/DoggoDating/status/1118193675144769536
+21:43:36 <DoT|Phone> Runbun. I see hob almost did the no hit
+21:43:36 <reification> dub https://twitter.com/Cute_N_Squish/status/1118268294463664130
+21:45:17 <reification> skram https://twitter.com/Mr_Meowwwgi/status/1117904389652373504
+21:49:19 <skram> mr wiggles nooo
+21:49:55 <reification> dub https://twitter.com/380kmh/status/1118596806999453697
+21:51:25 <DuB`> So many good twotters
+22:08:08 <skram> that bird looks like a drag queen, dub
+22:10:59 <DoT|Phone> I thought it was dubs new character
+22:12:32 <skram> secretary birds are kinda goofy though
+22:13:46 <Phearlock> Yes but they're also really pretty =3
+22:14:47 <skram> true true
+22:15:10 <skram> my brother got me a print for my birfday of this https://twitter.com/simonstalenhag/status/557069654238441472
+22:15:17 <skram> i didnt know they had space ships in sweden
+22:19:44 <Runbunny> DoT|Phone, I think the last split is hardest.
+22:20:12 <Runbunny> the Emma and Isshin fight in the end.
+22:21:20 <DoT|Phone> he was just practicing it. no hit isshin 3 times in a row
+22:21:39 <DoT|Phone> Emma rng though keeps getting him
+22:22:00 <DoT|Phone> needs a better strat
+22:22:24 <Runbunny> She has quick hits she can do pretty much out of nowhere.
+22:24:28 <DoT|Phone> get shanked
+22:25:16 <reification> hmm i don't know who to ping for pokemons https://twitter.com/xKuonn/status/1117994653565853696
+22:25:34 <skram> i volunteer
+22:25:52 <Runbunny> Ping Phearlock.
+22:26:28 <DuB`>  no me!
+22:27:05 <Runbunny> Ping Dub!
+22:29:20 <reification> well here is more skram phear dub https://www.bbc.com/news/amp/world-us-canada-47826919
+22:30:05 <skram> these are really good actually
+22:30:49 <reification> you say that often about stuff i link skram :p
+22:31:06 <skram> well apparently you have good taste??
+22:31:24 <reification> or you have low expectations for me...
+22:31:34 <skram> perish the thought
+22:44:16 <CockRoach|42> reification, skram: just finished the first "giant spider and me" book, and i like it so far :)
+22:45:20 <reification> excellent
+22:45:33 <reification> clearly i shall have to visit to read it
+22:45:33 <CockRoach|42> 5/7 would hug the spider
+23:11:47 <reification> dot https://www.bbc.co.uk/news/world-47898537
+23:12:15 <skram> switzerland is the worst fuckin' place
+23:12:17 <skram> u g h
+23:15:50 <DuB`> You take that back
+23:15:55 <DuB`> Have you seen those MONTANS?
+23:16:43 <skram> mountains are B O R I NG
+23:16:48 <skram> thats not true
+23:16:58 <skram> BUT IVE SEEN ENOUGH OF EM
+23:17:08 <DuB`> D: D: D: D: D: D: D: D: D: 
+23:21:59 <skram> fite me, DuB`
+23:22:23 <DuB`> I'd rather look at mountains
+23:22:53 <Runbunny> You guys can fight in the mountains.
+23:23:00 <skram> with swords?
+23:23:01 <Runbunny> Everyone is satisfied then.
+23:23:42 <Runbunny> I figured you more of a pugilist, Jonas.
+23:24:09 <DuB`> What of our plan to retire as roommate greybeards in Lucerne!
+23:24:13 <skram> i have delicate hands
+23:24:22 <skram> oh dang i forgot about that
+23:24:33 <skram> hmmmmmmm
+23:25:16 <skram> are you certain i cant convince you to become swamp people in the everglades instead?
+23:25:39 <DuB`> Florida is the beyond worst
+23:25:41 <DuB`> !
+23:26:27 <skram> but they have the tooth snakes!
+23:26:32 <DuB`> ???
+23:26:39 <skram> aligators
+23:26:44 <Runbunny> Tooth snakes with legs.
+23:26:47 <skram> they're sorta like snakes but with many teeth
+23:26:57 <Runbunny> Teeth lizards?
+23:27:04 <skram> probably
+23:30:21 <reification> ok i shall leave you to your silliness
+23:30:24 <reification> g'night
+23:30:34 <skram> good night reif
+23:31:26 <Runbunny> I go sleep as well.
+23:31:28 <Runbunny> Goodnight
